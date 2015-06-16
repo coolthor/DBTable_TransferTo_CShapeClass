@@ -1,0 +1,9 @@
+D:\GitRepo\working_tool\將DB Table轉CS class\bin\Debug\ModelCreator.exe.config
+D:\GitRepo\working_tool\將DB Table轉CS class\bin\Debug\ModelCreator.exe
+D:\GitRepo\working_tool\將DB Table轉CS class\bin\Debug\ModelCreator.pdb
+D:\GitRepo\working_tool\將DB Table轉CS class\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\GitRepo\working_tool\將DB Table轉CS class\obj\Debug\DBTableConvertToCSClass.csprojResolveAssemblyReference.cache
+D:\GitRepo\working_tool\將DB Table轉CS class\obj\Debug\ModelCreator.ModelCreator.resources
+D:\GitRepo\working_tool\將DB Table轉CS class\obj\Debug\DBTableConvertToCSClass.csproj.GenerateResource.Cache
+D:\GitRepo\working_tool\將DB Table轉CS class\obj\Debug\ModelCreator.exe
+D:\GitRepo\working_tool\將DB Table轉CS class\obj\Debug\ModelCreator.pdb
