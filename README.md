@@ -2,8 +2,7 @@
 
 Intro:
 
-
-It's a simple program to read (MS SQL/Oracle) table and  transfer  to .cs 
+It's a simple program to make model from existed  database (MS SQL/Oracle).
 
 Step 1. Open solution. 
 
